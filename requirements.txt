@@ -1,0 +1,4 @@
+# PyTorch: pip's default Linux wheel includes CUDA; for another CUDA version or
+# a CPU-only build see https://pytorch.org/get-started/locally/.
+torch
+numpy
